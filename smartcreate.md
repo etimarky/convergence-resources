@@ -1,18 +1,9 @@
-
-
-
+# SmartCreate
 
 SmartCreate - Design For Retrieval (DFR) Help
 
+## SmartCreate
 
+&#x20;
 
-# SmartCreate
-
-
- 
-
-
-[How to Create a Part](#)
-
-
-
+[How to Create a Part](smartcreate.md)

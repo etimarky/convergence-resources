@@ -1,57 +1,29 @@
-
-
-
+# Unit of Measure Editor
 
 Unit\_of\_Measure\_Editor - Design For Retrieval (DFR) Help
 
+## Unit of Measure Editor
 
+The Unit of Measure (UOM) Editor Module allows users to maintain UOM data for each Convergence PIM database including creating new UOM’s; editing existing UOM’s and deleting UOM’s.  This module can be accessed from the Tools menu.  If you’re not a Catalog Administrator then this module will be grayed out.
 
-# Unit of Measure Editor
+&#x20;
 
+&#x20;
 
-The Unit of Measure (UOM) Editor Module allows users to maintain UOM data for each Convergence PIM database including creating new UOM’s; editing existing UOM’s and deleting UOM’s.  This module can be accessed from the Tools menu.  If you’re not a Catalog Administrator then this module will be grayed out.
+&#x20;
 
+![](.gitbook/assets/image\(1119\).png)
 
- 
+&#x20;
 
+[UoM Features & Guidelines](unit_of_measure_editor.md)
 
- 
+&#x20;
 
+[Creating a UoM](unit_of_measure_editor.md)
 
+&#x20;
 
+&#x20;
 
-<iframe src="https://www.youtube.com/embed/DbadKyP_hFI/?wmode=transparent" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-
-
- 
-
-
-![](assets/image(1119).png)
-
-
-
-
- 
-
-
-[UoM Features & Guidelines](#)
-
-
- 
-
-
-[Creating a UoM](#)
-
-
- 
-
-
- 
-
-
-## 
-
-
-
-
-
+###

@@ -1,9 +1,9 @@
-# Summary
+# Table of contents
 
-* [Getting Started](getting_started.md)
+* [Getting Started](README.md)
 * [How to Set Up Contextual Attributes](document.md)
 * [How to Import New Item Data](how_to_import_new_item_data_.md)
-* How to Display Images in Items
+* [How to Display Images in Items](how-to-display-images-in-items/README.md)
   * [Applying Image Attribute](applying_image_attribute.md)
   * [Manually Adding Image by Item](manually_adding_image_by_item.md)
   * [Adding Multiple Images Using Import Manger](adding_multiple_images_using_import_manger.md)
@@ -23,8 +23,8 @@
       * [Copy from Another Part](copy_from_another_part.md)
       * [Attributes Display Order](attributes_display_order.md)
       * [Add Attributes to a Display Tab](add_attributes_to_a_display_tab.md)
-      * Navigating Data Through Category Images
-      * Search by Category
+      * [Navigating Data Through Category Images](convergence_pim_online/smartfind/search_for_parts/navigating-data-through-category-images.md)
+      * [Search by Category](convergence_pim_online/smartfind/search_for_parts/search-by-category.md)
       * [Saved Search](saved_search.md)
       * [Search by Part Number](search_by_part_number.md)
       * [Search by Keyword](search_by_keyword.md)
@@ -33,7 +33,7 @@
     * [Filter on Parts](filter_on_parts.md)
       * [Assigned User Filtering](assigned_user_filtering.md)
       * [Category Filtering](category_filtering.md)
-      * [Data Validation Filtering](data_validation_filtering.md)
+      * [Data Validation Filtering](/broken/pages/DiBlIdqLxVWO4msZEERu)
       * [Status Filtering](status_filtering.md)
       * [Attribute Filtering](attribute_filtering.md)
   * [SmartClass](smartclass.md)
@@ -101,7 +101,7 @@
     * [How to Import New Classification Data](how_to_import_new_classification_data.md)
       * [Creating a Classification Load File](creating_a_classification_load_file.md)
     * [Import Part Images](import_part_images.md)
-      * [Adding Multiple Images Using Import Manger](adding_multiple_images_using_import_manger.md)
+      * [Adding Multiple Images Using Import Manger](/broken/pages/8UeQyppWAs87vn5u3x5i)
   * [Cluster Tool](cluster_tool.md)
   * [Generating Descriptions](generating_descriptions.md)
   * [Unit of Measure Editor](unit_of_measure_editor.md)

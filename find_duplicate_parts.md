@@ -1,220 +1,127 @@
-
-
-
+# Find Duplicate Parts
 
 Find\_Duplicate\_Parts - Design For Retrieval (DFR) Help
 
+## Find Duplicate Parts
 
+Duplicate parts may create discrepancy and even redundancy when storing the same data in multiple attributes.  Duplicate data can significantly hurt the view of customers and it is the responsibility of all business users to effectively manage data at every touch point.&#x20;
 
-# Find Duplicate Parts
+&#x20;
 
-
-Duplicate parts may create discrepancy and even redundancy when storing the same data in multiple attributes.  Duplicate data can significantly hurt the view of customers and it is the responsibility of all business users to effectively manage data at every touch point. 
-
-
- 
-
-
-## Duplicate Report from SmartFind
-
+### Duplicate Report from SmartFind
 
 Select SmartFind on the drop-down menu.
 
+&#x20;
 
- 
-
-
-![](assets/image(687).png)
-
+![](.gitbook/assets/image\(687\).png)
 
 To search for a category, select Classification from the drop down menu.
 
+&#x20;
 
- 
+![](.gitbook/assets/image\(330\).png)
 
+Enter the category name.  Select the category from the drop down list that appears or select Search.
 
-![](assets/image(330).png)
+&#x20;
 
+![](.gitbook/assets/image\(331\).png)
 
-
-
-Enter the category name.  Select the category from the drop down list that appears or select Search.
-
-
- 
-
-
-![](assets/image(331).png)
-
-
-
-
- 
-
+&#x20;
 
 Select Duplicates from the Reports drop-down list.
 
+&#x20;
 
- 
+![](.gitbook/assets/image\(688\).png)
 
-
-![](assets/image(688).png)
-
-
-
-
- 
-
+&#x20;
 
 When using the Duplicate Report from SmartFind, the key attributes will be automatically selected once the duplicate report is run on the chosen category.
 
+To change some or all attributes, click onto the attribute box and choose additional or new attributes to search followed by "OK" and lastly, pressing the blue arrow to submit.&#x20;
 
-To change some or all attributes, click onto the attribute box and choose additional or new attributes to search followed by "OK" and lastly, pressing the blue arrow to submit. 
+&#x20;
 
+![](.gitbook/assets/image\(689\).png)
 
- 
+&#x20;
 
+![](.gitbook/assets/image\(388\).png)
 
-![](assets/image(689).png)
-
-
-
-
- 
-
-
-                                                                          ![](assets/image(388).png)
-
-
-
-
- 
-
+&#x20;
 
 After all information has been entered, select Go.
 
+The result will be a duplicate report run on all of the selected criteria.&#x20;
 
-The result will be a duplicate report run on all of the selected criteria. 
-
-
-Below the pie graph, more specific information will appear. The user may select the blue numbers to travel directly to those specific parts. 
-
+Below the pie graph, more specific information will appear. The user may select the blue numbers to travel directly to those specific parts.&#x20;
 
 The report may be saved for a later viewing or exported into an excel file using the functions on the top right.
 
+&#x20;
 
- 
-
-
-![](assets/image(390).png)
-
-  
+![](.gitbook/assets/image\(390\).png)
 
 Duplicate Report from SmartAnalytics
 
-
 Select SmartAnalytics from the drop down menu
 
+&#x20;
 
- 
-
-
-![](assets/image(690).png)
-
-
-
+![](.gitbook/assets/image\(690\).png)
 
 Select Data Analysis Reports and then Duplicate Finder Report.
 
+&#x20;
 
- 
-
-
-![](assets/image(691).png)
-
-
-
+![](.gitbook/assets/image\(691\).png)
 
 When using the Duplicate Finder Report from SmartAnalytics, the information will be blank from the start.
 
-
 Use the folder icon on the right of each section (Category, Attribute, Batch/Deliverable) to select the desired information and then select Go.
 
+&#x20;
 
- 
+![](.gitbook/assets/image\(693\).png)
 
+&#x20;
 
-![](assets/image(693).png)
-
-
-
-
- 
-
-
-To choose a category, begin from Root and manually select down the tree or use the search box in the top right. 
-
+To choose a category, begin from Root and manually select down the tree or use the search box in the top right.&#x20;
 
 Pertinent information on the category will show up to the right, including key attributes. The attributes will be chosen in the next step.
 
+Select Ok once the correct category has been chosen.&#x20;
 
-Select Ok once the correct category has been chosen. 
+&#x20;
 
+![](.gitbook/assets/image\(395\).png)
 
- 
+Once the category has been selected, the key attributes will automatically appear.&#x20;
 
+The user may use this window to choose any attributes that the duplicate report will need to run.&#x20;
 
-![](assets/image(395).png)
+&#x20;
 
+![](.gitbook/assets/image\(396\).png)
 
-
-
-Once the category has been selected, the key attributes will automatically appear. 
-
-
-The user may use this window to choose any attributes that the duplicate report will need to run. 
-
-
- 
-
-
-![](assets/image(396).png)
-
-
-
-
-If there is a specific batch or deliverable that the duplicate report needs to run against, select it here. 
-
+If there is a specific batch or deliverable that the duplicate report needs to run against, select it here.&#x20;
 
 Select Ok when complete.
 
+&#x20;
 
- 
-
-
-![](assets/image(399).png)
-
-
-
+![](.gitbook/assets/image\(399\).png)
 
 After all information has been entered, select Go.
 
+The result will be a duplicate report run on all of the selected criteria.&#x20;
 
-The result will be a duplicate report run on all of the selected criteria. 
-
-
-Below the pie graph, more specific information will appear. The user may select the blue numbers to travel directly to those specific parts. 
-
+Below the pie graph, more specific information will appear. The user may select the blue numbers to travel directly to those specific parts.&#x20;
 
 The report may be saved for a later viewing or exported into an excel file using the functions on the top right.
 
+&#x20;
 
- 
-
-
-![](assets/image(402).png)
-
-
-
-
-
+![](.gitbook/assets/image\(402\).png)
